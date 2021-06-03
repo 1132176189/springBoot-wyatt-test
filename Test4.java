@@ -1,6 +1,5 @@
 package com.yt.test;
 
-import java.awt.*;
 import java.io.IOException;
 
 public class Test4 {
